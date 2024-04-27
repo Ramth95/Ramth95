@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm Rammohan</h1>
-<h3 align="left">A Frontend Developer based in Kerala</h3>
+<h1 align="center">Hi 👋, I'm Rammohan</h1>
+<h3 align="center">A Frontend Developer based in Kerala</h3>
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about **Angular**
 - 📫 Email me at **rammohanth@gmail.com**
@@ -31,13 +31,3 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramth95&langs_count=8&theme=dark" alt=Ramth95 />
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramth95&theme=dark" alt="Ramth95" /></p>
-
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramth95&show_icons=true&locale=en&layout=compact" alt="ramth95" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramth95&theme=dark" alt="ramth95" />
-</p>
